@@ -1,6 +1,8 @@
 # diagmeta
 Meta-analysis of diagnostic test accuracy studies with the multiple cutoffs model Use diagmeta With (In) R Software
 
+https://www.youtube.com/watch?v=AW8wzCQUyqI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
